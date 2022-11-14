@@ -1,5 +1,5 @@
 .\" Manpage for Simple_Shell
-.TH man 1 "16 May 2022" "1.0" "Manual page for Simple_Shell"
+.TH man 11 "11 November 2022" "1.0" "Manual page for Simple_Shell"
 
 .SH NAME
 .B \fBSimple_Shell\fR - Command language interpreter
